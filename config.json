@@ -1,23 +1,21 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
-  "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
-  ],
-  "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
-  ],
-  "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
-  ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
-}
+    "username": "gotop1711",
+    "name": "Graham Chen",
+    "projects": [
+      "https://graham527.github.io/Portfolio/",
+      "http://grahamchen527.pe.hu/main/",
+      "https://installdonesmall.firebaseapp.com/InstallDone_small/"
+    ],
+    "background":[
+      "Majored English Literature and Language",
+      "fine Art, visual Design",
+      "Javascript 1 year",
+      "HTML 1 year",
+      "CSS 1 year",
+      "SCSS 6 months"
+    ],
+    "interests":[
+      "JavaScript (UI)"
+    ],
+    "github": "https://github.com/Gotop1711"
+  }
